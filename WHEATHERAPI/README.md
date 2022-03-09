@@ -8,7 +8,7 @@
 
 -> Need python3 for this project to work 
 
-> Note: Make virtual environment and install all requirements in requirements.txt file for the project to work 
+> Note: Make virtual environment, activate it and install all requirements in requirements.txt file for the project to work 
 
 
 
